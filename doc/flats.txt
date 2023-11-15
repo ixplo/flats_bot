@@ -1,0 +1,1026 @@
+[ {
+  "id" : "5425642018278",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---a-blok-id47462/5425642018278?kid=4",
+  "price" : "500 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "5425642012856",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/belvil-lux-zgrada-jorgovan-41-m2-1-5-parking/5425642012856?kid=4",
+  "price" : "550 €",
+  "publishDate" : "31.05.2022."
+}, {
+  "id" : "5425642108422",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-yubc-stan-2-0-85m2/5425642108422?kid=4",
+  "price" : "700 €",
+  "publishDate" : "27.06.2022."
+}, {
+  "id" : "5425642108701",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/izdaje-se-stan-63-m2-u-bloku-61/5425642108701",
+  "price" : "500 €",
+  "publishDate" : "27.06.2022."
+}, {
+  "id" : "5425641903822",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---a-blok-id47049/5425641903822?kid=4",
+  "price" : "750 €",
+  "publishDate" : "27.05.2022."
+}, {
+  "id" : "5425636264966",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/izdajem-stan-od-65m2-sa-garazom-u-blizini-are/5425636264966?kid=4",
+  "price" : "650 €",
+  "publishDate" : "16.06.2022."
+}, {
+  "id" : "5425642081354",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/izdajem-stan-u-bloku-30-preko-puta-siv-a/5425642081354?kid=4",
+  "price" : "580 €",
+  "publishDate" : "17.06.2022."
+}, {
+  "id" : "5425642021675",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/new-minel-lux-neuseljavan-id-18075/5425642021675?kid=4",
+  "price" : "500 €",
+  "publishDate" : "02.06.2022."
+}, {
+  "id" : "5425641983169",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/hotel-yu-lux-renoviran-id-3120/5425641983169?kid=4",
+  "price" : "490 €",
+  "publishDate" : "24.05.2022."
+}, {
+  "id" : "5425642087418",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel-id47803/5425642087418?kid=4",
+  "price" : "600 €",
+  "publishDate" : "20.06.2022."
+}, {
+  "id" : "5425636827839",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-30-izmedju-yubc-i-novog-merkatora-vlasni/5425636827839?kid=4",
+  "price" : "700 €",
+  "publishDate" : "25.06.2022."
+}, {
+  "id" : "5425642080643",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-70-delta-id47770/5425642080643?kid=4",
+  "price" : "550 €",
+  "publishDate" : "17.06.2022."
+}, {
+  "id" : "ID 14584",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/14584/20-rooms-apartment-bulevar-mihajla-pupina-novi-beograd",
+  "price" : "550 €",
+  "publishDate" : "28.06.2022"
+}, {
+  "id" : "5425642064996",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel-id47710/5425642064996?kid=4",
+  "price" : "550 €",
+  "publishDate" : "13.06.2022."
+}, {
+  "id" : "5425642072559",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---arena-blok-30-id47743/5425642072559?kid=4",
+  "price" : "500 €",
+  "publishDate" : "15.06.2022."
+}, {
+  "id" : "5425642094774",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-merkator-blok-30-renoviran/5425642094774?kid=4",
+  "price" : "500 €",
+  "publishDate" : "22.06.2022."
+}, {
+  "id" : "5425642089642",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-petica-id47815/5425642089642?kid=4",
+  "price" : "700 €",
+  "publishDate" : "20.06.2022."
+}, {
+  "id" : "5425642085382",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---west-65-id46589/5425642085382?kid=4",
+  "price" : "550 €",
+  "publishDate" : "19.06.2022."
+}, {
+  "id" : "ID 43498",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/43498/20-rooms-apartment-bulevar-mihajla-pupina-novi-beograd",
+  "price" : "800 €",
+  "publishDate" : "28.06.2022"
+}, {
+  "id" : "5425642095857",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-28-id47750/5425642095857?kid=4",
+  "price" : "700 €",
+  "publishDate" : "23.06.2022."
+}, {
+  "id" : "5425641983976",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/new-minel-lux-opremljen-stan-u-novogradnji/5425641983976?kid=4",
+  "price" : "800 €",
+  "publishDate" : "30.05.2022."
+}, {
+  "id" : "5425642042900",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/a-blok-savada-jednosoban-nov-useljiv-id14271/5425642042900?kid=4",
+  "price" : "550 €",
+  "publishDate" : "08.06.2022."
+}, {
+  "id" : "5425641919518",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-blok-63-stan-2-0-67m2/5425641919518?kid=4",
+  "price" : "650 €",
+  "publishDate" : "06.06.2022."
+}, {
+  "id" : "5425642057396",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---west-65-id46589/5425642057396?kid=4",
+  "price" : "550 €",
+  "publishDate" : "11.06.2022."
+}, {
+  "id" : "ID 49534",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49534/25-rooms-apartment-bulevar-arsenija-carnojevica-novi-beograd",
+  "price" : "600 €",
+  "publishDate" : "16.06.2022"
+}, {
+  "id" : "5425642075915",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/spanskih-boraca---preko-puta-stark-arene/5425642075915?kid=4",
+  "price" : "500 €",
+  "publishDate" : "16.06.2022."
+}, {
+  "id" : "5425642040126",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/stari-merkator-renoviran-odlican-id-6986/5425642040126?kid=4",
+  "price" : "600 €",
+  "publishDate" : "08.06.2022."
+}, {
+  "id" : "5425642097790",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/hotel-yu-bulevar-nikole-tesle-2-0-useljiv-id1/5425642097790?kid=4",
+  "price" : "500 €",
+  "publishDate" : "23.06.2022."
+}, {
+  "id" : "5425642088638",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd-blok-45-jurija-gagarina-3-0-88m2/5425642088638?kid=4",
+  "price" : "800 €",
+  "publishDate" : "20.06.2022."
+}, {
+  "id" : "5425641997109",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/lux-stan-blok63/5425641997109?kid=4",
+  "price" : "700 €",
+  "publishDate" : "08.06.2022."
+}, {
+  "id" : "5425641998552",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/izdavanje-2-0-lux-stan-sa-garazom-kod-arene/5425641998552?kid=4",
+  "price" : "700 €",
+  "publishDate" : "11.06.2022."
+}, {
+  "id" : "ID 49755",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49755/20-rooms-apartment-antifasisticke-borbe-novi-beograd",
+  "price" : "750 €",
+  "publishDate" : "24.06.2022"
+}, {
+  "id" : "5425642010156",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel-id47473/5425642010156?kid=4",
+  "price" : "800 €",
+  "publishDate" : "31.05.2022."
+}, {
+  "id" : "5425642045764",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-30-id47635/5425642045764?kid=4",
+  "price" : "600 €",
+  "publishDate" : "09.06.2022."
+}, {
+  "id" : "5425642048807",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd-blok-63---2-0-s-lux-uredjen-park/5425642048807?kid=4",
+  "price" : "600 €",
+  "publishDate" : "21.06.2022."
+}, {
+  "id" : "5425641986119",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-blok-45-tc-enjub-stan-3-0-72m2/5425641986119?kid=4",
+  "price" : "800 €",
+  "publishDate" : "25.05.2022."
+}, {
+  "id" : "5425642034412",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---belville-id47572/5425642034412?kid=4",
+  "price" : "800 €",
+  "publishDate" : "06.06.2022."
+}, {
+  "id" : "ID 22951",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/22951/20-rooms-apartment-palmira-toljatija-novi-beograd",
+  "price" : "650 €",
+  "publishDate" : "22.06.2022"
+}, {
+  "id" : "5425641986124",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---savada-3-id47423/5425641986124?kid=4",
+  "price" : "700 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "5425636621526",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-29-novogradnja-lux-garaza-id-15836/5425636621526?kid=4",
+  "price" : "800 €",
+  "publishDate" : "07.06.2022."
+}, {
+  "id" : "5425642072571",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---stari-merkator-id44416/5425642072571?kid=4",
+  "price" : "600 €",
+  "publishDate" : "15.06.2022."
+}, {
+  "id" : "5425642090366",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel-id47765/5425642090366?kid=4",
+  "price" : "700 €",
+  "publishDate" : "21.06.2022."
+}, {
+  "id" : "5425641992359",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---belville-id47487/5425641992359?kid=4",
+  "price" : "800 €",
+  "publishDate" : "04.06.2022."
+}, {
+  "id" : "5425641978057",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---belville-id47481/5425641978057?kid=4",
+  "price" : "650 €",
+  "publishDate" : "30.05.2022."
+}, {
+  "id" : "5425641769876",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd-kod-fontane/5425641769876?kid=4",
+  "price" : "500 €",
+  "publishDate" : "08.06.2022."
+}, {
+  "id" : "5425642016964",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/izdaje-se-1-5-lux-neuseljavan-stan-kod-holivu/5425642016964?kid=4",
+  "price" : "500 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "5425642014872",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/new-minell-nov-neuseljavan/5425642014872?kid=4",
+  "price" : "800 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "ID 31063",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/31063/10-room-apartment-jurija-gagarina-novi-beograd",
+  "price" : "800 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "ID 48555",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/48555/20-rooms-apartment-aleksinackih-rudara-novi-beograd",
+  "price" : "600 €",
+  "publishDate" : "22.06.2022"
+}, {
+  "id" : "ID 38754",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/38754/20-rooms-apartment-dzona-kenedija-novi-beograd",
+  "price" : "600 €",
+  "publishDate" : "20.06.2022"
+}, {
+  "id" : "ID 14881",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/14881/10-room-apartment-jurija-gagarina-novi-beograd",
+  "price" : "700 €",
+  "publishDate" : "28.06.2022"
+}, {
+  "id" : "ID 49585",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49585/studio-apartment-bulevar-vudroa-vilsona-savski-venac",
+  "price" : "790 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "5425642093368",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---savada-3-id47839/5425642093368?kid=4",
+  "price" : "800 €",
+  "publishDate" : "22.06.2022."
+}, {
+  "id" : "5425641962858",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd-2-0-renoviran-id-4456/5425641962858?kid=4",
+  "price" : "500 €",
+  "publishDate" : "27.05.2022."
+}, {
+  "id" : "5425642040032",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-63-novogradnja-garaza/5425642040032?kid=4",
+  "price" : "750 €",
+  "publishDate" : "07.06.2022."
+}, {
+  "id" : "5425642095198",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-28-arena-id47853/5425642095198?kid=4",
+  "price" : "600 €",
+  "publishDate" : "22.06.2022."
+}, {
+  "id" : "5425642094315",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/a-blok-lux-novogradnja-moze-i-pp-id-6754/5425642094315?kid=4",
+  "price" : "600 €",
+  "publishDate" : "22.06.2022."
+}, {
+  "id" : "5425642040571",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---arena-blok-22-id47608/5425642040571?kid=4",
+  "price" : "550 €",
+  "publishDate" : "07.06.2022."
+}, {
+  "id" : "5425642014468",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---bezanijska-kosa-1-id47036/5425642014468?kid=4",
+  "price" : "500 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "5425642039462",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/savada-3/5425642039462?kid=4",
+  "price" : "800 €",
+  "publishDate" : "07.06.2022."
+}, {
+  "id" : "5425642100813",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel-id47901/5425642100813?kid=4",
+  "price" : "700 €",
+  "publishDate" : "24.06.2022."
+}, {
+  "id" : "5425641958247",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/hotel-yu-2-5-nov-nenamesten-id1339/5425641958247?kid=4",
+  "price" : "650 €",
+  "publishDate" : "02.06.2022."
+}, {
+  "id" : "ID 49378",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49378/25-rooms-apartment-novobeogradskih-graditelja-novi-beograd",
+  "price" : "550 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "5425642112870",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/hotel-jugoslavija---novi-beograd-2-0-67m2-lux/5425642112870?kid=4",
+  "price" : "800 €",
+  "publishDate" : "28.06.2022."
+}, {
+  "id" : "5425642037892",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd-arena-id42066/5425642037892?kid=4",
+  "price" : "550 €",
+  "publishDate" : "07.06.2022."
+}, {
+  "id" : "5425642022825",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-id47513/5425642022825?kid=4",
+  "price" : "550 €",
+  "publishDate" : "02.06.2022."
+}, {
+  "id" : "5425642092752",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---yubc-blok-12-id47910/5425642092752?kid=4",
+  "price" : "700 €",
+  "publishDate" : "28.06.2022."
+}, {
+  "id" : "5425641975016",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-stari-merkator-stan-3-0-75m2/5425641975016?kid=4",
+  "price" : "800 €",
+  "publishDate" : "21.06.2022."
+}, {
+  "id" : "5425641999738",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-34-id47444/5425641999738?kid=4",
+  "price" : "520 €",
+  "publishDate" : "28.05.2022."
+}, {
+  "id" : "5425642026001",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/29728-izdavanje-stan-belville-800-eur/5425642026001?kid=4",
+  "price" : "800 €",
+  "publishDate" : "03.06.2022."
+}, {
+  "id" : "5425642072575",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-38-id47747/5425642072575?kid=4",
+  "price" : "500 €",
+  "publishDate" : "15.06.2022."
+}, {
+  "id" : "5425642072566",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-blok-34-carina---studentski-grad-stan/5425642072566?kid=4",
+  "price" : "700 €",
+  "publishDate" : "15.06.2022."
+}, {
+  "id" : "5425642019925",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-21-id47498/5425642019925?kid=4",
+  "price" : "500 €",
+  "publishDate" : "02.06.2022."
+}, {
+  "id" : "ID 13939",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/13939/25-rooms-apartment-bulevar-arsenija-carnojevica-novi-beograd",
+  "price" : "800 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "5425642048393",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-21-id47644/5425642048393?kid=4",
+  "price" : "700 €",
+  "publishDate" : "09.06.2022."
+}, {
+  "id" : "5425642069465",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-stari-merkator-stan-3-0-75m2/5425642069465?kid=4",
+  "price" : "800 €",
+  "publishDate" : "15.06.2022."
+}, {
+  "id" : "5425642035911",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63---tc-piramida-id47573/5425642035911?kid=4",
+  "price" : "650 €",
+  "publishDate" : "06.06.2022."
+}, {
+  "id" : "5425642053180",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-65--wellport/5425642053180?kid=4",
+  "price" : "550 €",
+  "publishDate" : "11.06.2022."
+}, {
+  "id" : "5425642016553",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---belville-id46999/5425642016553?kid=4",
+  "price" : "600 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "5425641893481",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/belville---2-0-s-60-m2-garazno-mesto/5425641893481?kid=4",
+  "price" : "650 €",
+  "publishDate" : "07.06.2022."
+}, {
+  "id" : "5425642034413",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-id47571/5425642034413?kid=4",
+  "price" : "500 €",
+  "publishDate" : "06.06.2022."
+}, {
+  "id" : "5425642099176",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-novogradnja-id47888/5425642099176?kid=4",
+  "price" : "550 €",
+  "publishDate" : "24.06.2022."
+}, {
+  "id" : "5425642095228",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---arena-blok-28-id47859/5425642095228?kid=4",
+  "price" : "600 €",
+  "publishDate" : "22.06.2022."
+}, {
+  "id" : "5425642016521",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/a-blok-1-0-namesten-id14271/5425642016521?kid=4",
+  "price" : "550 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "ID 16831",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/16831/20-rooms-apartment-gandijeva-novi-beograd",
+  "price" : "600 €",
+  "publishDate" : "26.06.2022"
+}, {
+  "id" : "5425642094239",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/new-minel-lux-novogradnja-moze-i-pp-id-18197/5425642094239?kid=4",
+  "price" : "650 €",
+  "publishDate" : "22.06.2022."
+}, {
+  "id" : "5425642052872",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-novogradnja-id47663/5425642052872?kid=4",
+  "price" : "800 €",
+  "publishDate" : "10.06.2022."
+}, {
+  "id" : "5425642109328",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-64-novogradnja-id47904/5425642109328?kid=4",
+  "price" : "500 €",
+  "publishDate" : "27.06.2022."
+}, {
+  "id" : "5425642019924",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---arena-blok-25-id47499/5425642019924?kid=4",
+  "price" : "550 €",
+  "publishDate" : "02.06.2022."
+}, {
+  "id" : "5425642054020",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-id47670/5425642054020?kid=4",
+  "price" : "700 €",
+  "publishDate" : "11.06.2022."
+}, {
+  "id" : "ID 36378",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/36378/15-rooms-apartment-gandijeva-novi-beograd",
+  "price" : "500 €",
+  "publishDate" : "16.06.2022"
+}, {
+  "id" : "5425637169847",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/lux-penthouse-59m2-garaza-new-minel-residence/5425637169847?kid=4",
+  "price" : "800 €",
+  "publishDate" : "02.06.2022."
+}, {
+  "id" : "5425642040562",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel-id47607/5425642040562?kid=4",
+  "price" : "800 €",
+  "publishDate" : "07.06.2022."
+}, {
+  "id" : "5425642064045",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/izdaje-se-stan---a-blok-30m2/5425642064045?kid=4",
+  "price" : "500 €",
+  "publishDate" : "13.06.2022."
+}, {
+  "id" : "5425641919759",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/39310-izdavanje-stan-blok-29-650-eur/5425641919759?kid=4",
+  "price" : "650 €",
+  "publishDate" : "31.05.2022."
+}, {
+  "id" : "5425642071942",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/potpuno-opremljen-stan-sa-ogromnom-terasom-bl/5425642071942",
+  "price" : "500 €",
+  "publishDate" : "15.06.2022."
+}, {
+  "id" : "5425642049955",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-id47654/5425642049955?kid=4",
+  "price" : "600 €",
+  "publishDate" : "10.06.2022."
+}, {
+  "id" : "5425642027727",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---novi-merkator-blok-32-id47545/5425642027727?kid=4",
+  "price" : "600 €",
+  "publishDate" : "04.06.2022."
+}, {
+  "id" : "5425642039320",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/savada-3-neuseljavan-garaza-id-14907/5425642039320?kid=4",
+  "price" : "800 €",
+  "publishDate" : "07.06.2022."
+}, {
+  "id" : "5425642093385",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-21-id47761/5425642093385?kid=4",
+  "price" : "550 €",
+  "publishDate" : "22.06.2022."
+}, {
+  "id" : "5425642017276",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-45-id46797/5425642017276?kid=4",
+  "price" : "550 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "ID 41461",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/41461/20-rooms-apartment-bulevar-arsenija-carnojevica-novi-beograd",
+  "price" : "700 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "5425641929833",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/arena-renoviran-za-pp-id-13518/5425641929833?kid=4",
+  "price" : "800 €",
+  "publishDate" : "13.06.2022."
+}, {
+  "id" : "5425642066602",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/dr-ivana-ribara/5425642066602?kid=4",
+  "price" : "500 €",
+  "publishDate" : "14.06.2022."
+}, {
+  "id" : "5425642056493",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---arena-blok-22-id47669/5425642056493?kid=4",
+  "price" : "800 €",
+  "publishDate" : "11.06.2022."
+}, {
+  "id" : "5425641988670",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-blok-65-stan-1-0-45m2/5425641988670?kid=4",
+  "price" : "600 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "5425642081507",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-23-id47794/5425642081507?kid=4",
+  "price" : "600 €",
+  "publishDate" : "17.06.2022."
+}, {
+  "id" : "5425642071332",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-blok-61-stan-2-0-50m2/5425642071332?kid=4",
+  "price" : "800 €",
+  "publishDate" : "15.06.2022."
+}, {
+  "id" : "ID 41849",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/41849/30-rooms-apartment-jurija-gagarina-novi-beograd",
+  "price" : "550 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "5425642108399",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-61-id47942/5425642108399?kid=4",
+  "price" : "500 €",
+  "publishDate" : "27.06.2022."
+}, {
+  "id" : "5425642092318",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-blok-34-carina---studentski-grad-stan/5425642092318?kid=4",
+  "price" : "800 €",
+  "publishDate" : "21.06.2022."
+}, {
+  "id" : "5425642024879",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/hotel-yu-potpuno-renoviran-odlican-id-18168/5425642024879?kid=4",
+  "price" : "700 €",
+  "publishDate" : "03.06.2022."
+}, {
+  "id" : "5425642065699",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---a-blok-id47717/5425642065699?kid=4",
+  "price" : "550 €",
+  "publishDate" : "14.06.2022."
+}, {
+  "id" : "ID 40873",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/40873/20-rooms-apartment-jurija-gagarina-novi-beograd",
+  "price" : "700 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "5425642100047",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/nbgd-blok-70-renoviran/5425642100047",
+  "price" : "800 €",
+  "publishDate" : "24.06.2022."
+}, {
+  "id" : "5425642057397",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-70a-delta-id47682/5425642057397?kid=4",
+  "price" : "700 €",
+  "publishDate" : "11.06.2022."
+}, {
+  "id" : "5425642096961",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-63-novogradnja-odlican-id-14559/5425642096961?kid=4",
+  "price" : "650 €",
+  "publishDate" : "23.06.2022."
+}, {
+  "id" : "5425635526139",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-bgd-odmah-useljiv-konforan-svetao-namest/5425635526139?kid=4",
+  "price" : "600 €",
+  "publishDate" : "05.06.2022."
+}, {
+  "id" : "ID 21320",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/21320/25-rooms-apartment-bulevar-mihajla-pupina-novi-beograd",
+  "price" : "800 €",
+  "publishDate" : "20.06.2022"
+}, {
+  "id" : "5425641490689",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/lux-potpuno-nov-i-namesten-stan-na-ledinama/5425641490689?kid=4",
+  "price" : "650 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "5425642095222",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---savada-3-id47855/5425642095222?kid=4",
+  "price" : "800 €",
+  "publishDate" : "22.06.2022."
+}, {
+  "id" : "5425642039062",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-63-novogradnja-komforan-id-14216/5425642039062?kid=4",
+  "price" : "650 €",
+  "publishDate" : "07.06.2022."
+}, {
+  "id" : "ID 34354",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/34354/30-rooms-apartment-jurija-gagarina-novi-beograd",
+  "price" : "600 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "ID 49546",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49546/20-rooms-apartment-dr-agostina-neta-novi-beograd",
+  "price" : "700 €",
+  "publishDate" : "15.06.2022"
+}, {
+  "id" : "5425642084376",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-30-arena-id47793/5425642084376?kid=4",
+  "price" : "550 €",
+  "publishDate" : "18.06.2022."
+}, {
+  "id" : "5425641990157",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-45-id47382/5425641990157?kid=4",
+  "price" : "600 €",
+  "publishDate" : "02.06.2022."
+}, {
+  "id" : "5425642064641",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-yubc-stan-2-0-70m2/5425642064641?kid=4",
+  "price" : "700 €",
+  "publishDate" : "13.06.2022."
+}, {
+  "id" : "ID 39313",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/39313/30-rooms-apartment-bulevar-zorana-djindjica-novi-beograd",
+  "price" : "800 €",
+  "publishDate" : "28.06.2022"
+}, {
+  "id" : "5425642107711",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/belvil-lux-novogradnja-garaza-id-15905/5425642107711?kid=4",
+  "price" : "700 €",
+  "publishDate" : "27.06.2022."
+}, {
+  "id" : "ID 42618",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/42618/35-rooms-apartment-spanskih-boraca-novi-beograd",
+  "price" : "850 €",
+  "publishDate" : "20.06.2022"
+}, {
+  "id" : "5425642062725",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/top-ponuda-stan-na-novom-beogradu-id-2776/5425642062725?kid=4",
+  "price" : "680 €",
+  "publishDate" : "13.06.2022."
+}, {
+  "id" : "5425642019228",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/stan-70kv-blok-33-dvoiposoban/5425642019228?kid=4",
+  "price" : "680 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "5425642080624",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-70a-delta-id47768/5425642080624?kid=4",
+  "price" : "700 €",
+  "publishDate" : "17.06.2022."
+}, {
+  "id" : "5425642064992",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---arena-blok-28-id41151/5425642064992?kid=4",
+  "price" : "650 €",
+  "publishDate" : "13.06.2022."
+}, {
+  "id" : "5425642107217",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-23-id47794/5425642107217?kid=4",
+  "price" : "600 €",
+  "publishDate" : "27.06.2022."
+}, {
+  "id" : "5425642024021",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---arena-blok-29-id47524/5425642024021?kid=4",
+  "price" : "500 €",
+  "publishDate" : "03.06.2022."
+}, {
+  "id" : "5425635412214",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/top-ponuda-park-apartmani-id-3092/5425635412214?kid=4",
+  "price" : "600 €",
+  "publishDate" : "19.05.2022."
+}, {
+  "id" : "5425642094345",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/hotel-jugoslavija-lux-renoviran-id-7302/5425642094345?kid=4",
+  "price" : "600 €",
+  "publishDate" : "22.06.2022."
+}, {
+  "id" : "5425642019968",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---park-apartmani-blok-19a-id4750/5425642019968?kid=4",
+  "price" : "600 €",
+  "publishDate" : "02.06.2022."
+}, {
+  "id" : "5425636771764",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/lux-dvosoban-stan-u-novoj-zgradi-potpuno-opre/5425636771764?kid=4",
+  "price" : "800 €",
+  "publishDate" : "05.06.2022."
+}, {
+  "id" : "5425642034414",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-64-immo-centar-id46720/5425642034414?kid=4",
+  "price" : "700 €",
+  "publishDate" : "06.06.2022."
+}, {
+  "id" : "5425641988698",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---yubc-blok-12-id47008/5425641988698?kid=4",
+  "price" : "800 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "5425641955642",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-blok-65-stan-2-0-42m2/5425641955642?kid=4",
+  "price" : "800 €",
+  "publishDate" : "02.06.2022."
+}, {
+  "id" : "5425642042930",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-30-2-0-namesten-garaza-id10729/5425642042930?kid=4",
+  "price" : "650 €",
+  "publishDate" : "08.06.2022."
+}, {
+  "id" : "ID 49683",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49683/25-rooms-apartment-bulevar-arsenija-carnojevica-novi-beograd",
+  "price" : "600 €",
+  "publishDate" : "24.06.2022"
+}, {
+  "id" : "ID 49147",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49147/30-rooms-apartment-otona-zupancica-novi-beograd",
+  "price" : "700 €",
+  "publishDate" : "20.06.2022"
+}, {
+  "id" : "5425642100419",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/2-0-lux-stan-mileve-maric-ajnstajn-novi-beogr/5425642100419",
+  "price" : "500 €",
+  "publishDate" : "24.06.2022."
+}, {
+  "id" : "ID 49730",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49730/20-rooms-apartment-bulevar-arsenija-carnojevica-novi-beograd",
+  "price" : "800 €",
+  "publishDate" : "24.06.2022"
+}, {
+  "id" : "5425641999728",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---arena-blok-29-id47378/5425641999728?kid=4",
+  "price" : "800 €",
+  "publishDate" : "18.06.2022."
+}, {
+  "id" : "5425641988945",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beogradska-arena-blok-29-dvosoban-stan-sa-gar/5425641988945?kid=4",
+  "price" : "800 €",
+  "publishDate" : "10.06.2022."
+}, {
+  "id" : "5425642044005",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---savada-a-blok-id47626/5425642044005",
+  "price" : "550 €",
+  "publishDate" : "09.06.2022."
+}, {
+  "id" : "5425641961068",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/belville---1-5-s-45m-namesten/5425641961068?kid=4",
+  "price" : "500 €",
+  "publishDate" : "02.06.2022."
+}, {
+  "id" : "5425641979951",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/savada-lux-novogradnja-id-18059/5425641979951?kid=4",
+  "price" : "550 €",
+  "publishDate" : "23.05.2022."
+}, {
+  "id" : "5425642103098",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/izdajem-jednosoban-stan-u-bloku-23-kod-arene/5425642103098",
+  "price" : "500 €",
+  "publishDate" : "27.06.2022."
+}, {
+  "id" : "5425642050000",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---savada-a-blok-id47655/5425642050000?kid=4",
+  "price" : "550 €",
+  "publishDate" : "10.06.2022."
+}, {
+  "id" : "5425642016500",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-blok-67a-a-blok-stan-1-0-35m2/5425642016500?kid=4",
+  "price" : "600 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "ID 49229",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49229/25-rooms-apartment-dr-ivana-ribara-novi-beograd",
+  "price" : "700 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "5425641997661",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/belvil-2-0-lux-namesten-id1382/5425641997661?kid=4",
+  "price" : "550 €",
+  "publishDate" : "28.05.2022."
+}, {
+  "id" : "5425642094756",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---stari-merkator-id46378/5425642094756?kid=4",
+  "price" : "600 €",
+  "publishDate" : "23.06.2022."
+}, {
+  "id" : "5425642063682",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-23-id47704/5425642063682?kid=4",
+  "price" : "700 €",
+  "publishDate" : "13.06.2022."
+}, {
+  "id" : "ID 49514",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49514/20-rooms-apartment-spanskih-boraca-novi-beograd",
+  "price" : "550 €",
+  "publishDate" : "28.06.2022"
+}, {
+  "id" : "5425641988696",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-blok-65-stan-1-5-41m2/5425641988696?kid=4",
+  "price" : "750 €",
+  "publishDate" : "25.05.2022."
+}, {
+  "id" : "5425641978053",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---yubc-blok-12-crvenkapa-id47332/5425641978053?kid=4",
+  "price" : "800 €",
+  "publishDate" : "30.05.2022."
+}, {
+  "id" : "5425642092948",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/nov-stan-namesten-novim-stvarima-55-m2/5425642092948",
+  "price" : "600 €",
+  "publishDate" : "21.06.2022."
+}, {
+  "id" : "5425641956666",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-21-id47230/5425641956666?kid=4",
+  "price" : "750 €",
+  "publishDate" : "31.05.2022."
+}, {
+  "id" : "5425642072567",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-blok-34-carina---studentski-grad-stan/5425642072567?kid=4",
+  "price" : "600 €",
+  "publishDate" : "15.06.2022."
+}, {
+  "id" : "ID 49768",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49768/20-rooms-apartment-omladinskih-brigada-novi-beograd",
+  "price" : "700 €",
+  "publishDate" : "24.06.2022"
+}, {
+  "id" : "5425642080625",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-30-arena-id47767/5425642080625?kid=4",
+  "price" : "600 €",
+  "publishDate" : "17.06.2022."
+}, {
+  "id" : "5425642089638",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-petica-id47814/5425642089638?kid=4",
+  "price" : "700 €",
+  "publishDate" : "20.06.2022."
+}, {
+  "id" : "ID 38185",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/38185/30-rooms-apartment-pariske-komune-novi-beograd",
+  "price" : "750 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "5425641860755",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-45-lux-renoviran-komforan-id-13222/5425641860755?kid=4",
+  "price" : "800 €",
+  "publishDate" : "26.05.2022."
+}, {
+  "id" : "5425642100158",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/atrium-63-lux-novogradnja-id-18213/5425642100158?kid=4",
+  "price" : "550 €",
+  "publishDate" : "27.06.2022."
+}, {
+  "id" : "5425642088988",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-37-renoviran-62m2/5425642088988?kid=4",
+  "price" : "650 €",
+  "publishDate" : "20.06.2022."
+}, {
+  "id" : "5425642069431",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-29-arena-id47732/5425642069431?kid=4",
+  "price" : "650 €",
+  "publishDate" : "15.06.2022."
+}, {
+  "id" : "5425642010153",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-29-arena-lep-renoviran-garaza-id714140/5425642010153?kid=4",
+  "price" : "700 €",
+  "publishDate" : "31.05.2022."
+}, {
+  "id" : "5425642036949",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd--belville-id47583/5425642036949?kid=4",
+  "price" : "750 €",
+  "publishDate" : "06.06.2022."
+}, {
+  "id" : "5425642075843",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-29-arena-id47753/5425642075843?kid=4",
+  "price" : "500 €",
+  "publishDate" : "16.06.2022."
+}, {
+  "id" : "5425642100758",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-70a-delta-id47791/5425642100758?kid=4",
+  "price" : "700 €",
+  "publishDate" : "28.06.2022."
+}, {
+  "id" : "5425642071572",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/usce-77m2-dve-spavace-sobe-terasa-namesten/5425642071572?kid=4",
+  "price" : "800 €",
+  "publishDate" : "24.06.2022."
+}, {
+  "id" : "5425641969755",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-stari-merkator-stan-2-5-70m2/5425641969755?kid=4",
+  "price" : "600 €",
+  "publishDate" : "27.05.2022."
+}, {
+  "id" : "5425642030988",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-id47566/5425642030988?kid=4",
+  "price" : "800 €",
+  "publishDate" : "05.06.2022."
+}, {
+  "id" : "5425642078385",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel-id47765/5425642078385?kid=4",
+  "price" : "700 €",
+  "publishDate" : "17.06.2022."
+}, {
+  "id" : "5425642047588",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-19a-id47637/5425642047588?kid=4",
+  "price" : "800 €",
+  "publishDate" : "09.06.2022."
+}, {
+  "id" : "5425642082628",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-70a-delta-id47791/5425642082628?kid=4",
+  "price" : "700 €",
+  "publishDate" : "18.06.2022."
+}, {
+  "id" : "5425642063866",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/wellport-lux-nov-id-14086/5425642063866?kid=4",
+  "price" : "550 €",
+  "publishDate" : "13.06.2022."
+}, {
+  "id" : "5425642036397",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/bezanijska-kosa--bezanijski-plato-87m2-sa-gar/5425642036397?kid=4",
+  "price" : "750 €",
+  "publishDate" : "06.06.2022."
+}, {
+  "id" : "5425642093428",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-45-id47846/5425642093428?kid=4",
+  "price" : "600 €",
+  "publishDate" : "22.06.2022."
+}, {
+  "id" : "5425642075170",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/trosoban-stan-77-m2-u-bulevaru-zorana-djindji/5425642075170?kid=4",
+  "price" : "750 €",
+  "publishDate" : "16.06.2022."
+}, {
+  "id" : "ID 49490",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/49490/35-rooms-apartment-dr-ivana-ribara-novi-beograd",
+  "price" : "550 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "5425642012991",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-63-novogradnja/5425642012991?kid=4",
+  "price" : "650 €",
+  "publishDate" : "31.05.2022."
+}, {
+  "id" : "5425642110048",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/yubc-2-0-lux-modern-apartment-id11017/5425642110048?kid=4",
+  "price" : "700 €",
+  "publishDate" : "28.06.2022."
+}, {
+  "id" : "5425635936060",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/lux-renoviran/5425635936060?kid=4",
+  "price" : "500 €",
+  "publishDate" : "19.06.2022."
+}, {
+  "id" : "5425641903801",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel-id47042/5425641903801?kid=4",
+  "price" : "600 €",
+  "publishDate" : "03.06.2022."
+}, {
+  "id" : "5425642067239",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel-id47723/5425642067239?kid=4",
+  "price" : "700 €",
+  "publishDate" : "14.06.2022."
+}, {
+  "id" : "5425641997908",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/sakura/5425641997908?kid=4",
+  "price" : "750 €",
+  "publishDate" : "28.05.2022."
+}, {
+  "id" : "5425642026647",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-21-id47536/5425642026647?kid=4",
+  "price" : "750 €",
+  "publishDate" : "03.06.2022."
+}, {
+  "id" : "ID 11296",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/11296/20-rooms-apartment-jurija-gagarina-novi-beograd",
+  "price" : "800 €",
+  "publishDate" : "14.06.2022"
+}, {
+  "id" : "5425642036947",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-tc-piramida-id47582/5425642036947?kid=4",
+  "price" : "650 €",
+  "publishDate" : "06.06.2022."
+}, {
+  "id" : "ID 32739",
+  "url" : "https://cityexpert.rs/en/properties-for-rent/belgrade/32739/30-rooms-apartment-omladinskih-brigada-novi-beograd",
+  "price" : "700 €",
+  "publishDate" : "24.06.2022"
+}, {
+  "id" : "5425642018612",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel-id47496/5425642018612?kid=4",
+  "price" : "800 €",
+  "publishDate" : "01.06.2022."
+}, {
+  "id" : "5425642019987",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---bezanijska-kosa-2-id47604/5425642019987?kid=4",
+  "price" : "700 €",
+  "publishDate" : "10.06.2022."
+}, {
+  "id" : "5425641882776",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/beograd-fontana-stan-1-5-40m2/5425641882776?kid=4",
+  "price" : "600 €",
+  "publishDate" : "27.05.2022."
+}, {
+  "id" : "5425642099129",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---blok-63-novogradnja-id47883/5425642099129?kid=4",
+  "price" : "550 €",
+  "publishDate" : "24.06.2022."
+}, {
+  "id" : "5425642093154",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/novi-beograd---minel---2-0/5425642093154?kid=4",
+  "price" : "650 €",
+  "publishDate" : "21.06.2022."
+}, {
+  "id" : "5425642047703",
+  "url" : "https://www.halooglasi.com/nekretnine/izdavanje-stanova/blok-63-novogradnja-odlican-id-18125/5425642047703?kid=4",
+  "price" : "700 €",
+  "publishDate" : "10.06.2022."
+} ]
