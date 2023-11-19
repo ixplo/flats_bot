@@ -9,7 +9,7 @@ import java.io.IOException;
 public class TelegramSender {
 
     public static final String TEMPLATE = "https://api.telegram.org/bot%s/sendMessage?chat_id=%s&text=%s";
-    public static final String API_TOKEN = "5337282112:AAGOPOFLNJl-Zq75rCHJop0b32nj64tGLJM";
+    public static final String API_TOKEN = "token";
     public static final String CHAT_ID = "@flat_monitor";
 
     private static final OkHttpClient client = new OkHttpClient();
