@@ -9,3 +9,7 @@ Example of website:
 Example of chat posts:
 
 ![](doc/chat.jpeg)
+
+#### To use need to have latest Chromedriver and setup path to it
+
+CHROME_DRIVER_PATH in [ChromeWebDriverService](src/main/java/rs/beograd/service/ChromeWebDriverService.java)

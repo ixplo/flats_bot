@@ -1,10 +1,9 @@
 package rs.beograd.parsers;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.*;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import rs.beograd.dto.FlatInfo;
+import rs.beograd.service.ChromeWebDriverService;
 
 import java.io.IOException;
 import java.time.LocalDate;
@@ -15,15 +14,14 @@ import java.util.Set;
 
 public class CityExpertFlatInfoParser implements FlatInfoParser {
     public static final String BASE_URL = "https://cityexpert.rs/en";
-    public static final String URL = BASE_URL + "/properties-for-rent/belgrade?ptId=1,5&minPrice=500&maxPrice=850&polygonsArray=Novi%20Beograd,Blok%2067%20(Belville),Blok%2065,West%2065,Delta%20City,Beograd%20na%20vodi,Op%C5%A1tina%20Novi%20Beograd,Blok%2067a%20(A%20Blok)";
+    public static final String MIN_PRICE = "1500";
+    public static final String MAX_PRICE = "3000";
+    public static final String URL = BASE_URL + "/properties-for-rent/belgrade?ptId=1,5&minPrice=" + MIN_PRICE + "&maxPrice=" + MAX_PRICE + "&polygonsArray=Novi%20Beograd,Blok%2067%20(Belville),Blok%2065,West%2065,Delta%20City,Beograd%20na%20vodi,Op%C5%A1tina%20Novi%20Beograd,Blok%2067a%20(A%20Blok)";
 
     private final WebDriver driver;
 
     public CityExpertFlatInfoParser() {
-        WebDriverManager.chromedriver().setup();
-        ChromeOptions options = new ChromeOptions();
-        options.addArguments("--headless", "--disable-gpu", "--window-size=1920,1200","--ignore-certificate-errors");
-        driver = new ChromeDriver(options);
+        driver = new ChromeWebDriverService().create();
     }
 
     public Set<FlatInfo> getFlats() {
