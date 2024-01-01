@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
+import org.jetbrains.annotations.NotNull;
 import rs.beograd.dto.FlatInfo;
 
 import java.io.IOException;
@@ -30,6 +31,22 @@ public class FlatInfoDao {
 
     private static String readJson() {
         Path path = Paths.get(FILE_NAME);
+        createIfDoesNotExist(path);
+        return read(path);
+    }
+
+    private static void createIfDoesNotExist(Path path) {
+        if (!Files.exists(path)) {
+            try {
+                Files.createFile(path);
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
+        }
+    }
+
+    @NotNull
+    private static String read(Path path) {
         try {
             return new String(Files.readAllBytes(path));
         } catch (IOException e) {
